@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Sambram123/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambram123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/Sambram123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Sambram123/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
