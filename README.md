@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambram123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sambram123/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Sambram123/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -36,6 +37,7 @@
 | [0015-3sum](https://github.com/Sambram123/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sambram123/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Sambram123/Leetcode/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -57,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambram123/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sambram123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Sambram123/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -64,4 +67,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambram123/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sambram123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
