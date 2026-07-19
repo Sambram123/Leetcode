@@ -30,6 +30,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Sambram123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambram123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sambram123/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -106,8 +107,17 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sambram123/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambram123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
