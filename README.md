@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sambram123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sambram123/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Sambram123/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sambram123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambram123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sambram123/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
