@@ -4,12 +4,13 @@ public:
         int n=nums.size();
         int sum=0;
         int count=0;
+        unordered_map<int,int> m;
+        m[0]=1;
+
         for(int i=0;i<n;i++){
-            sum=0;
-            for(int j=i;j<n;j++){
-                sum+=nums[j];
-                if(sum==k) count++;
-            }
+            sum+=nums[i];
+            if(m.find(sum-k)!=m.end()) count+=m[sum-k];
+            m[sum]++;
         }
         return count;
     }
