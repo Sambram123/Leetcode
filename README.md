@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sambram123/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Sambram123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Sambram123/Leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Sambram123/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sambram123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sambram123/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -84,6 +86,7 @@
 | [0202-happy-number](https://github.com/Sambram123/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sambram123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Sambram123/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sambram123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
