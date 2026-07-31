@@ -65,6 +65,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sambram123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambram123/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sambram123/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sambram123/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
@@ -101,6 +102,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sambram123/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sambram123/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sambram123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambram123/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sambram123/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -109,6 +111,7 @@
 | [0076-minimum-window-substring](https://github.com/Sambram123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sambram123/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambram123/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sambram123/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sambram123/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sambram123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambram123/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sambram123/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sambram123/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -185,6 +189,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sambram123/Leetcode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sambram123/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sambram123/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
