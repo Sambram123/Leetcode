@@ -26,6 +26,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Sambram123/Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Sambram123/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sambram123/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sambram123/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -141,6 +142,7 @@
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sambram123/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sambram123/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sambram123/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -183,6 +185,7 @@
 | [0053-maximum-subarray](https://github.com/Sambram123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Sambram123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sambram123/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sambram123/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sambram123/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -212,4 +215,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
