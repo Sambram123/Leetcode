@@ -17,6 +17,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sambram123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambram123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sambram123/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambram123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -69,6 +71,7 @@
 | [0056-merge-intervals](https://github.com/Sambram123/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sambram123/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,6 +106,7 @@
 | [0141-linked-list-cycle](https://github.com/Sambram123/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambram123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Sambram123/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Sambram123/Leetcode/tree/master/0525-contiguous-array) |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sambram123/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
@@ -141,6 +146,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Sambram123/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
