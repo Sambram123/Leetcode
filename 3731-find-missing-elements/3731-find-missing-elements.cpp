@@ -7,7 +7,7 @@ public:
         int maxi=*max_element(nums.begin(),nums.end());
 
         for(int i=mini;i<=maxi;i++){
-            if(s.find(i)==s.end()) ans.push_back(i);
+            if(s.count(i)==0) ans.push_back(i);
         }
         return ans;
     }
