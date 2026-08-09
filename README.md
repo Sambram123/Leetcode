@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambram123/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Sambram123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sambram123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sambram123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -195,6 +196,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sambram123/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sambram123/Leetcode/tree/master/0054-spiral-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
