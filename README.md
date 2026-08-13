@@ -44,6 +44,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sambram123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sambram123/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/Sambram123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sambram123/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambram123/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sambram123/Leetcode/tree/master/3731-find-missing-elements) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sambram123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Sambram123/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
