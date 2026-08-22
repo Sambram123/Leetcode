@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sambram123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Sambram123/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sambram123/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Sambram123/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sambram123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -86,6 +87,7 @@
 | [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Sambram123/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sambram123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sambram123/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
