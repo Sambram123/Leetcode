@@ -2,15 +2,13 @@ class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
         unordered_set<int> st(nums.begin(),nums.end());
-        int i=1;
         int n=k;
         while(true){
-            if(st.find(k)==st.end()){
-                return k;
+            if(st.find(n)==st.end()){
+                return n;
             }
             else{
-                i++;
-                k=n*i;
+                n+=k;
             }
         }
         return -1;
