@@ -90,6 +90,7 @@
 | [0344-reverse-string](https://github.com/Sambram123/Leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sambram123/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sambram123/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sambram123/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sambram123/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sambram123/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sambram123/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -444,4 +446,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sambram123/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sambram123/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
