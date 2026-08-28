@@ -105,6 +105,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sambram123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Sambram123/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sambram123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sambram123/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -247,6 +248,7 @@
 | [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sambram123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sambram123/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sambram123/Leetcode/tree/master/1406-stone-game-iii) |
