@@ -9,17 +9,30 @@ public:
             m[nums[i]]++;
         }
 
-        priority_queue<pair<int,int>> pq;
+        priority_queue<pair<int,int>,
+    vector<pair<int,int>>,
+    greater<pair<int,int>>> pq;
 
-        for(auto i:m){
-            pq.push({i.second,i.first});
-        }
+       for(auto i:m){
+            int ele=i.first;
+            int freq=i.second;
+            pair<int,int> curr={freq,ele};
 
-        for(int i=0;i<k;i++){
+            if(pq.size()<k){
+                pq.push(curr);
+                continue;
+            }
+            
+            if(curr.first<pq.top().first) continue;
+            else{
+                pq.pop();
+                pq.push(curr);
+            }
+       }
+        while(!pq.empty()){
             ans.push_back(pq.top().second);
             pq.pop();
         }
-
         return ans;
     }
 };
