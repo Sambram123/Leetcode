@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sambram123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Sambram123/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Sambram123/Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Sambram123/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Sambram123/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -129,6 +130,7 @@
 | [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sambram123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Sambram123/Leetcode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
@@ -368,6 +370,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sambram123/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Sambram123/Leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Sambram123/Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/Sambram123/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Sambram123/Leetcode/tree/master/1927-sum-game) |
@@ -384,6 +387,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sambram123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Sambram123/Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
