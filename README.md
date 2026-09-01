@@ -40,6 +40,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sambram123/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Sambram123/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sambram123/Leetcode/tree/master/0724-find-pivot-index) |
@@ -96,6 +97,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sambram123/Leetcode/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sambram123/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sambram123/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -113,6 +115,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sambram123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Sambram123/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sambram123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -135,6 +138,7 @@
 | [0502-ipo](https://github.com/Sambram123/Leetcode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sambram123/Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -154,6 +158,7 @@
 | [0076-minimum-window-substring](https://github.com/Sambram123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Sambram123/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sambram123/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -396,6 +401,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sambram123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Sambram123/Leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
