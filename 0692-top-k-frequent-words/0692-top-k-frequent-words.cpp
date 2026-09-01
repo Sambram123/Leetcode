@@ -23,7 +23,7 @@ public:
             pq.push({freq,word});
         }
 
-        while(!pq.empty() && k--){
+        while(k--){
             pair<int,string> p=pq.top();
             pq.pop();
 
