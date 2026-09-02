@@ -56,6 +56,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Sambram123/Leetcode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sambram123/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sambram123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sambram123/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sambram123/Leetcode/tree/master/1406-stone-game-iii) |
@@ -122,6 +123,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sambram123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sambram123/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sambram123/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sambram123/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -144,6 +146,7 @@
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sambram123/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sambram123/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -407,6 +410,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Combinatorics
 |  |
@@ -465,6 +469,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sambram123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambram123/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sambram123/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bracket Sequences
 |  |
