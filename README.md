@@ -18,6 +18,7 @@
 | [0057-insert-interval](https://github.com/Sambram123/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Sambram123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sambram123/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sambram123/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Sambram123/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sambram123/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -272,6 +273,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sambram123/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sambram123/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sambram123/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -497,6 +499,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sambram123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sambram123/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Sambram123/Leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sambram123/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
