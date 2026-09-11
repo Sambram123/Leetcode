@@ -72,6 +72,7 @@
 | [1929-concatenation-of-array](https://github.com/Sambram123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Sambram123/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sambram123/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sambram123/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sambram123/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sambram123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -358,6 +359,7 @@
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sambram123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Sambram123/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sambram123/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
@@ -485,10 +487,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/Sambram123/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/Sambram123/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sambram123/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -512,6 +516,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambram123/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sambram123/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sambram123/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bracket Sequences
