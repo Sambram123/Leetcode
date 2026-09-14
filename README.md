@@ -373,6 +373,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sambram123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Sambram123/Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Sambram123/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sambram123/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -503,6 +504,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sambram123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/Sambram123/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -603,10 +605,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sambram123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sambram123/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
