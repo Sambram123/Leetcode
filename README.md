@@ -582,6 +582,7 @@
 | [0112-path-sum](https://github.com/Sambram123/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sambram123/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Sambram123/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Sambram123/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/Sambram123/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -702,6 +703,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sambram123/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sambram123/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Sambram123/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -727,6 +729,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sambram123/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sambram123/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Sambram123/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
