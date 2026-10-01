@@ -294,6 +294,7 @@
 | [0383-ransom-note](https://github.com/Sambram123/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sambram123/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Sambram123/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Sambram123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sambram123/Leetcode/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -355,6 +356,7 @@
 | [0202-happy-number](https://github.com/Sambram123/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Sambram123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sambram123/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sambram123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -413,6 +415,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sambram123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Sambram123/Leetcode/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sambram123/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Sambram123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
