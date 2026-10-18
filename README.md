@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sambram123/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Sambram123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sambram123/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Sambram123/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sambram123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sambram123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sambram123/Leetcode/tree/master/0056-merge-intervals) |
@@ -696,6 +697,7 @@
 | [0022-generate-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sambram123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sambram123/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Sambram123/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sambram123/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Sambram123/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sambram123/Leetcode/tree/master/0090-subsets-ii) |
@@ -879,6 +881,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sambram123/Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Sambram123/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sambram123/Leetcode/tree/master/0052-n-queens-ii) |
 ## Binary Lifting
 |  |
