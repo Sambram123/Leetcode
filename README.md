@@ -594,6 +594,7 @@
 | [0502-ipo](https://github.com/Sambram123/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sambram123/Leetcode/tree/master/1046-last-stone-weight) |
@@ -658,6 +659,7 @@
 | [0547-number-of-provinces](https://github.com/Sambram123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Sambram123/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -679,6 +681,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/Sambram123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sambram123/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sambram123/Leetcode/tree/master/0994-rotting-oranges) |
@@ -690,6 +693,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sambram123/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/Sambram123/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sambram123/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -958,4 +962,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sambram123/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
