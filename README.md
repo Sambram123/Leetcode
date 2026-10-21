@@ -535,6 +535,7 @@
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sambram123/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Sambram123/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sambram123/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Sambram123/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -602,6 +603,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sambram123/Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -668,6 +670,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Sambram123/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sambram123/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/Sambram123/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -691,6 +694,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sambram123/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sambram123/Leetcode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Sambram123/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -704,6 +708,7 @@
 | [0547-number-of-provinces](https://github.com/Sambram123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/Sambram123/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sambram123/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
@@ -978,6 +983,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
