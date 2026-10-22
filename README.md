@@ -61,6 +61,7 @@
 | [0704-binary-search](https://github.com/Sambram123/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sambram123/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Sambram123/Leetcode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Sambram123/Leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sambram123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sambram123/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -172,6 +173,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sambram123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sambram123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Sambram123/Leetcode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sambram123/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sambram123/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sambram123/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -604,6 +606,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sambram123/Leetcode/tree/master/1046-last-stone-weight) |
@@ -631,6 +634,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/Sambram123/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sambram123/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sambram123/Leetcode/tree/master/1510-stone-game-iv) |
@@ -670,6 +674,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sambram123/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Sambram123/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -694,6 +699,7 @@
 | [0547-number-of-provinces](https://github.com/Sambram123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sambram123/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sambram123/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -737,6 +743,7 @@
 | [0200-number-of-islands](https://github.com/Sambram123/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambram123/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sambram123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Sambram123/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Sambram123/Leetcode/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -786,6 +793,7 @@
 | [0130-surrounded-regions](https://github.com/Sambram123/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sambram123/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sambram123/Leetcode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Sambram123/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sambram123/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Sambram123/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -989,5 +997,6 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sambram123/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Sambram123/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
