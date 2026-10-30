@@ -383,6 +383,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sambram123/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sambram123/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sambram123/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sambram123/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -641,6 +642,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sambram123/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Sambram123/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sambram123/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -753,6 +755,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/Sambram123/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sambram123/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sambram123/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -1037,6 +1040,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Sambram123/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sambram123/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sambram123/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
