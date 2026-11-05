@@ -447,6 +447,7 @@
 | [0877-stone-game](https://github.com/Sambram123/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambram123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Sambram123/Leetcode/tree/master/1140-stone-game-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sambram123/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sambram123/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sambram123/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Sambram123/Leetcode/tree/master/1406-stone-game-iii) |
@@ -500,6 +501,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sambram123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sambram123/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sambram123/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Simulation
 |  |
