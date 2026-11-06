@@ -434,6 +434,7 @@
 | [0007-reverse-integer](https://github.com/Sambram123/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sambram123/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Sambram123/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Sambram123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sambram123/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sambram123/Leetcode/tree/master/0268-missing-number) |
@@ -584,6 +585,7 @@
 | [0022-generate-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sambram123/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sambram123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sambram123/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sambram123/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sambram123/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -906,6 +908,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sambram123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sambram123/Leetcode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sambram123/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
