@@ -362,6 +362,7 @@
 | [0412-fizz-buzz](https://github.com/Sambram123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambram123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Sambram123/Leetcode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Sambram123/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Sambram123/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Sambram123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sambram123/Leetcode/tree/master/0767-reorganize-string) |
