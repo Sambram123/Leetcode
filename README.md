@@ -38,6 +38,7 @@
 | [0162-find-peak-element](https://github.com/Sambram123/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambram123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sambram123/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Sambram123/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sambram123/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambram123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sambram123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -595,6 +596,7 @@
 | [0115-distinct-subsequences](https://github.com/Sambram123/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sambram123/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sambram123/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Sambram123/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Sambram123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sambram123/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Sambram123/Leetcode/tree/master/0678-valid-parenthesis-string) |
