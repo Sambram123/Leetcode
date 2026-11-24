@@ -363,6 +363,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sambram123/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Sambram123/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sambram123/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sambram123/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sambram123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sambram123/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sambram123/Leetcode/tree/master/0125-valid-palindrome) |
@@ -421,6 +422,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sambram123/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sambram123/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sambram123/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sambram123/Leetcode/tree/master/0136-single-number) |
@@ -463,6 +465,7 @@
 | [0013-roman-to-integer](https://github.com/Sambram123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sambram123/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sambram123/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sambram123/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sambram123/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sambram123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sambram123/Leetcode/tree/master/0202-happy-number) |
@@ -542,6 +545,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sambram123/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Sambram123/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sambram123/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sambram123/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Sambram123/Leetcode/tree/master/0682-baseball-game) |
