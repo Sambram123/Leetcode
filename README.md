@@ -1146,4 +1146,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sambram123/Leetcode/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sambram123/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sambram123/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
