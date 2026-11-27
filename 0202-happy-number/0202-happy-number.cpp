@@ -12,11 +12,13 @@ public:
     bool isHappy(int n) {
         int slow=n,fast=n;
         
-        do{
+        while(fast!=1){
             slow=sum(slow);
             fast=sum(sum(fast));
-        }while(slow!=fast);
-        
-        return slow==1;
+
+            if(slow==fast && slow!=1) return false;
+        }
+        fast=1;
+        return true;
     }
 };
