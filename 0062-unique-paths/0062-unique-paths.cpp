@@ -9,6 +9,7 @@ class Solution {
         if(dp[i][j] != -1){
             return dp[i][j];
         }
+        
         int down = fun(m,n,i+1,j,dp);
 
         int right = fun(m,n,i,j+1,dp);
